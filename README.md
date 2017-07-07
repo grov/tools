@@ -9,10 +9,12 @@ Usefull tools for completing Kali
     - [MD5-Buster](https://github.com/UltimateHackers/MD5-Buster)
 - **cyber-i**
     - [snitch](https://github.com/Smaash/snitch)
+    - [credmap](https://github.com/lightos/credmap/)
 - **divers**
     - [cheat](https://github.com/chrisallenlane/cheat)
-- **framework**
+- **Empire**
     - [Empire](https://github.com/EmpireProject/Empire)
+    - [DeathStar](https://github.com/byt3bl33d3r/DeathStar)
 - **payload**
     - [mpc](https://github.com/g0tmi1k/mpc)
     - [NXcrypt](https://github.com/Hadi999/NXcrypt)
