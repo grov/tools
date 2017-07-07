@@ -2,8 +2,8 @@
 Usefull tools for completing Kali
 
 - **bruteforce**
-    - [brutespray] (https://github.com/x90skysn3k/brutespray)
-    - [cangibrina] (https://github.com/fnk0c/cangibrina)
+    - [brutespray](https://github.com/x90skysn3k/brutespray)
+    - [cangibrina](https://github.com/fnk0c/cangibrina)
 - **crack**
     - cisco-decrypt
     - MD5-Buster
