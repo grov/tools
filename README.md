@@ -20,6 +20,7 @@ Usefull tools for completing Kali
     - [NXcrypt](https://github.com/Hadi999/NXcrypt)
     - [TheFatRat](https://github.com/Screetsec/TheFatRat)
     - [Veil-Evasion](https://github.com/Veil-Framework/Veil-Evasion)
+    - [ShellStack](https://github.com/Tuhinshubhra/shellstack)
 - **perso**
     - [disc-infra](https://github.com/grov/disc-infra)
 - **ssl**
