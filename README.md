@@ -1,30 +1,30 @@
 # tools
-Usefull tools for pentest
+Usefull tools for completing Kali
 
-- bruteforce
+- **bruteforce**
     - brutespray
     - cangibrina
-- crack
+- **crack**
     - cisco-decrypt
     - MD5-Buster
-- cyber-i
+- **cyber-i**
     - snitch
-- divers
+- **divers**
     - cheat
-- framework
+- **framework**
     - Empire
-- payload
+- **payload**
     - mpc
     - NXcrypt
     - TheFatRat
     - Veil-Evasion
-- perso
+- **perso**
     - disc-infra
-- ssl
+- **ssl**
     - testssl.sh
-- wifi
+- **wifi**
     - infernal-twin
     - netattack2
     - YArAP
-- wordpress
+- **wordpress**
     - WPSeku
