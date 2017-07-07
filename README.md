@@ -28,6 +28,6 @@ Usefull tools for completing Kali
 - **wifi**
     - [infernal-twin](https://github.com/entropy1337/infernal-twin) : Rogue AP tool
     - [netattack2](https://github.com/chrizator/netattack2) : Rogue AP tool
-    - [YArAP]
+    - [YArAP] : Rogue AP tool
 - **wordpress**
     - [WPSeku](https://github.com/m4ll0k/WPSeku) : Wordpress Scanner 
