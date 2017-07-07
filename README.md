@@ -5,26 +5,26 @@ Usefull tools for completing Kali
     - [brutespray](https://github.com/x90skysn3k/brutespray)
     - [cangibrina](https://github.com/fnk0c/cangibrina)
 - **crack**
-    - cisco-decrypt
-    - MD5-Buster
+    - [cisco-decrypt](https://github.com/utgarda/cisco-decrypt)
+    - [MD5-Buster](https://github.com/UltimateHackers/MD5-Buster)
 - **cyber-i**
-    - snitch
+    - [snitch](https://github.com/Smaash/snitch)
 - **divers**
-    - cheat
+    - [cheat](https://github.com/chrisallenlane/cheat)
 - **framework**
-    - Empire
+    - [Empire](https://github.com/EmpireProject/Empire)
 - **payload**
-    - mpc
-    - NXcrypt
-    - TheFatRat
-    - Veil-Evasion
+    - [mpc](https://github.com/g0tmi1k/mpc)
+    - [NXcrypt](https://github.com/Hadi999/NXcrypt)
+    - [TheFatRat](https://github.com/Screetsec/TheFatRat)
+    - [Veil-Evasion](https://github.com/Veil-Framework/Veil-Evasion)
 - **perso**
-    - disc-infra
+    - [disc-infra](https://github.com/grov/disc-infra)
 - **ssl**
-    - testssl.sh
+    - [testssl.sh](https://github.com/drwetter/testssl.sh)
 - **wifi**
-    - infernal-twin
-    - netattack2
-    - YArAP
+    - [infernal-twin](https://github.com/entropy1337/infernal-twin)
+    - [netattack2](https://github.com/chrizator/netattack2)
+    - [YArAP]
 - **wordpress**
-    - WPSeku
+    - [WPSeku](https://github.com/m4ll0k/WPSeku)
