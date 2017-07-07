@@ -2,10 +2,10 @@
 Usefull tools for completing Kali
 
 - **bruteforce**
-    - brutespray
+    - brutespray
     - cangibrina
 - **crack**
-    - cisco-decrypt
+    - cisco-decrypt
     - MD5-Buster
 - **cyber-i**
     - snitch
@@ -23,8 +23,8 @@ Usefull tools for completing Kali
 - **ssl**
     - testssl.sh
 - **wifi**
-    - infernal-twin
-    - netattack2
+    - infernal-twin
+    - netattack2
     - YArAP
 - **wordpress**
     - WPSeku
