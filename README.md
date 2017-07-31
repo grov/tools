@@ -29,8 +29,10 @@ Usefull tools for completing Kali
     - [infernal-twin](https://github.com/entropy1337/infernal-twin) : Rogue AP tool
     - [netattack2](https://github.com/chrizator/netattack2) : Rogue AP tool
     - [YArAP] : Rogue AP tool
-- **wordpress**
-    - [WPSeku](https://github.com/m4ll0k/WPSeku) : Wordpress Scanner 
+- **CMS**
+    - [WPSeku](https://github.com/m4ll0k/WPSeku) : Wordpress Scanner
+    - [CMSmap](https://github.com/Dionach/CMSmap) : CMS Scanner
+    - [droopescan](https://github.com/droope/droopescan) : Drupal Scan  (LONG !!!)
 
 
 
