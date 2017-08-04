@@ -3,7 +3,8 @@ Usefull tools for completing Kali
 
 - **bruteforce**
     - [brutespray](https://github.com/x90skysn3k/brutespray) : Bruteforce default service with nmap output
-    - [cangibrina](https://github.com/fnk0c/cangibrina) : Bruteforce admin panel 
+    - [cangibrina](https://github.com/fnk0c/cangibrina) : Bruteforce admin panel
+    - [XSStrike](git clone https://github.com/UltimateHackers/XSStrike/) : Fuzzer pour les XSS
 - **crack**
     - [cisco-decrypt](https://github.com/utgarda/cisco-decrypt) : Decrypt cisco password 5
     - [MD5-Buster](https://github.com/UltimateHackers/MD5-Buster) : Decrypt MD5 hash (using db)
