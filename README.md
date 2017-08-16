@@ -4,7 +4,7 @@ Usefull tools for completing Kali
 - **bruteforce**
     - [brutespray](https://github.com/x90skysn3k/brutespray) : Bruteforce default service with nmap output
     - [cangibrina](https://github.com/fnk0c/cangibrina) : Bruteforce admin panel
-    - [XSStrike](git clone https://github.com/UltimateHackers/XSStrike/) : Fuzzer pour les XSS
+    - [XSStrike](https://github.com/UltimateHackers/XSStrike/) : Fuzzer pour les XSS
 - **crack**
     - [cisco-decrypt](https://github.com/utgarda/cisco-decrypt) : Decrypt cisco password 5
     - [MD5-Buster](https://github.com/UltimateHackers/MD5-Buster) : Decrypt MD5 hash (using db)
@@ -38,6 +38,8 @@ Usefull tools for completing Kali
     - [BloodHound](https://github.com/BloodHoundAD) : Graphic Path to Domain Admin
 - **Report**
     - [VulnReport](https://github.com/salesforce/vulnreport) : Générateur de rapport de pentest 
+- **Report**
+    - [Spaghetti](https://github.com/m4ll0k/Spaghetti) : Scan web du même style que Nikto
     
 
 Thanks Github developpers for the sharing ! 
