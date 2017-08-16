@@ -41,7 +41,12 @@ Usefull tools for completing Kali
 - **Scanneur de vuln**
     - [Spaghetti](https://github.com/m4ll0k/Spaghetti) : Scan web du même style que Nikto
 - **Priv Esc**
-    - [LinEnum](https://github.com/rebootuser/LinEnum) : Linux PriveEsc en Python    
+    - [LinEnum](https://github.com/rebootuser/LinEnum) : Linux PriveEsc en Python
+    - [windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check) : Windows PriveEsc
+    - [linuxprivchecker](http://www.securitysift.com/download/linuxprivchecker.py) : Linux PriveEsc
+    
+    
+
     
     
 
