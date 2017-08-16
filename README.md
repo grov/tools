@@ -44,10 +44,8 @@ Usefull tools for completing Kali
     - [LinEnum](https://github.com/rebootuser/LinEnum) : Linux PriveEsc en Python
     - [windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check) : Windows PriveEsc
     - [linuxprivchecker](http://www.securitysift.com/download/linuxprivchecker.py) : Linux PriveEsc
-    
+    - [1N3/PrivEsc](https://github.com/1N3/PrivEsc) : Collection de Priv-Esc Windows/linux
     
 
-    
-    
 
 Thanks Github developpers for the sharing ! 
