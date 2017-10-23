@@ -1,0 +1,20 @@
+•	Outils Windows (à executer sur la machine attaquante ou sur une machine compromise) :
+  o	BloodHound (https://github.com/BloodHoundAD/BloodHound/wiki): pour identifier les Chemins de compromission (indispensable)
+  o	PowerSploit (https://github.com/PowerShellMafia/PowerSploit): pour interagir avec l’AD, trouver des possibilités de privilege escalation (recommandé)
+  o	PowerUpSQL (https://github.com/NetSPI/PowerUpSQL): pour trouver des vulnérabilités de gestion des droits sur des serveurs MSSQL (recommandé)
+  o	Suite Sysinternals (https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite): pleins de tools pour faire un peu tout (recommandé)
+
+•	Outils Kali (certains sont déjà dans Kali)
+  o	Pywerview (https://github.com/the-useless-one/pywerview.git): Réimplémentation en python de Powerview. Moins complet mais ça tourne sous Linux. (éventuellemet)
+  o	PowerShellEmpire (https://github.com/powershellempire/empire): Permet de lancer facilement les différents scripts de PowerSploit, BloodHound, etc. une fois qu’on a compromis un hôte. Il s’agit d’un outil de post-exploitation. (éventuellement)
+  o	Httpscreenshot (https://github.com/breenmachine/httpscreenshot.git): permet de prendre des screenshots à partir d’un output nmap. Indispensable pour identifier rapidement des interfaces web intéressantes (indispensable)
+  o	EyeWitness (https://github.com/ChrisTruncer/EyeWitness) : alternative à httpscreenshot (indispensable)
+  o	Veil-Framework (https://github.com/Veil-Framework/Veil.git): pleins de scripts pour encoder / chiffrer / obfusquer ses malweres en cas d’antivirus récalcitrant. (indispensable)
+    o	Impacket : pleins de scripts utiles en TI interne. 
+    	Get-UsersSPN qui permet de faire du Kerberoasting. 
+    	Psexec qui permet de faire un psexec rapide sans avoir à passer par le module metasploit. Wmiexec fait la même chose avec WMI.
+  o	Responder : pour récupérer un compte en début de TI. 
+  o	Nmap : le bien connu 
+  o	Masscan :  comme nmap mais plus optimisé pour scanner de larges plages. Je m’en sers souvent pour scanner des /16 en me limitant à 445 pour identifier les plages contenant des machines ou à 80,443,8080, etc. si je cherche des applications web
+  o	Metasploit : pour stocker les résultats nmap (db_import) et lancer des meterpreter avec le module psexec ou autre. J’évite de lancer les exploits type MS-XX quand je trouve autre chose pour éviter de crasher des trucs.
+  o	CrackmapExec : pour énumérer des shares (avec ou sans compte) et pleins d’autres trucs (comme dumper hashs AD)
